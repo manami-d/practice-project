@@ -1,3 +1,9 @@
-# practice-project
+# Git Practice Project
 
-We are doing great :D
+## Description
+
+This repository is for practicing collaboration on Github.
+
+## What I learnt from this?
+- How to fork a repository and clone into my own computer
+- How to work on the same repository with others
